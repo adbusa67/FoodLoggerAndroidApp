@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FoodLogger</string>
+    <string name="logo_description">Logo</string>
+    <string name="login_message">Please login by inputting your credentials.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="motto">Welcome</string>
+    <string name="home_page">My Recycle View</string>
+    <string name="log_out">Log Out</string>
+    <string name="image">Image</string>
+    <string name="number">09234359978</string>
+    <string name="name">name</string>
+    <string name="phone">phone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gojek">to Gojek</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="food_name">Food Name : </string>
+    <string name="calories_label">Calories : </string>
+</resources>
